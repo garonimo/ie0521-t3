@@ -3,7 +3,7 @@
 *	Escuela de Ingeniería Eléctrica
 *	IE-0521 Estructuras de Computadoras Digitales II
 *
-*	Quiz 9
+*	Quiz #9
 *
 *   Autores:
 * 		Andrey Pérez Salazar - B25084
